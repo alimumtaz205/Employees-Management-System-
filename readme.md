@@ -5,12 +5,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+
 
 ***********************************************
-Assignment No.2 
+## Assignment No.2
 *********************************************** 
-
+</p>
 
 # Before running this project
 
@@ -28,16 +28,16 @@ Assignment No.2
 
 
 
-1.=>	Open 'XAMPP Control Panel' and start 'Apache' and 'MySQL'
-2.=>	Open 'Google Crome' or any other browser.
-3.=>	Paste the link 'http://localhost/Laravel/public/' and press enter
-			OR
-4.=>	Open 'Command Prompt' of your window and Start server 
-	by using command 'php artisan serve' AND Paste the 'http://127.0.0.1:8000' and press enter.
-5.=>	For 'Forgot Your Password' the link is store in logs inside the storage folder. Compy the link from logs file then paste to the browser
+=>	Open 'XAMPP Control Panel' and start 'Apache' and 'MySQL' <br>
+=>	Open 'Google Crome' or any other browser. <br>
+=>	Paste the link 'http://localhost/Laravel/public/' and press enter <br>
+			OR <br>
+=>	Open 'Command Prompt' of your window and Start server <br>
+	by using command 'php artisan serve' AND Paste the 'http://127.0.0.1:8000' and press enter.<br>
+=>	For 'Forgot Your Password' the link is store in logs inside the storage folder. Compy the link from logs file then paste to the browser
 
 
-##PROJECT INTERFACES:
+## Project Interfaces
 **********************************
 1. Index Page (Login and SignUp buttons)
 2. Login Page (Email, Password, Forgot Password?)
