@@ -30,6 +30,7 @@
 
 =>	Open 'XAMPP Control Panel' and start 'Apache' and 'MySQL' <br>
 =>	Open 'Google Crome' or any other browser. <br>
+=> Import databse file '127_0_0_1.sql' from the folder. <br>
 =>	Paste the link 'http://localhost/Laravel/public/' and press enter <br>
 			OR <br>
 =>	Open 'Command Prompt' of your window and Start server <br>
